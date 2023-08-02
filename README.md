@@ -26,9 +26,9 @@ This project discusses the importance and applications of natural language proce
    - Train and Test Model
 
 7.  Model Evaluation :
-   - Accuracy Score
-   - Confusition Matrix
-   - Classification Report
+      - Accuracy Score
+      - Confusition Matrix
+      - Classification Report
 
 7. Model Deployment
 
