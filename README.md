@@ -17,15 +17,15 @@ This project discusses the importance and applications of natural language proce
    - Stopwords 
    - Lemmatization / Stemming
 
-4. Vectorization (Convert Text data into the Vector):
+5. Vectorization (Convert Text data into the Vector):
    - Bag Of Words (CountVectorizer)
    - TF-IDF
 
-5. Model Building :
+6. Model Building :
    - Model Object Initialization
    - Train and Test Model
 
-6.  Model Evaluation :
+7.  Model Evaluation :
    - Accuracy Score
    - Confusition Matrix
    - Classification Report
