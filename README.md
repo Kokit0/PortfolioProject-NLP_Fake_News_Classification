@@ -12,21 +12,26 @@ This project discusses the importance and applications of natural language proce
 1. Problem Statement
 2. Data Gathering
 3. Data Preprocessing : Here we perform some operation on data
-    A. Tokenization
-    B. Lower Case
-    C. Stopwords 
-    D. Lemmatization / Stemming
+   A. Tokenization
+   B. Lower Case
+   C. Stopwords 
+   D. Lemmatization / Stemming
+
 4. Vectorization (Convert Text data into the Vector):
-    A. Bag Of Words (CountVectorizer)
-    B. TF-IDF
+   A. Bag Of Words (CountVectorizer)
+   B. TF-IDF
+
 5. Model Building :
-    A. Model Object Initialization
-    B. Train and Test Model
-6. Model Evaluation :
-    A. Accuracy Score
-    B. Confusition Matrix
-    C. Classification Report
+   A. Model Object Initialization
+   B. Train and Test Model
+
+6.  Model Evaluation :
+   A. Accuracy Score
+   B. Confusition Matrix
+   C. Classification Report
+
 7. Model Deployment
+
 8. Prediction on Client Data
 
 ## Tech Stack Used
