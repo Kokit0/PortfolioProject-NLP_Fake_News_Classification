@@ -6,7 +6,7 @@ We consume news through several mediums throughout the day in our daily routine,
 
 This project discusses the importance and applications of natural language processing (NLP), specifically in the context of classifying fake news. It covers various pre-processing techniques such as tokenization, stemming, and lemmatization, before moving on to vectorization using TF-IDF. The project also demonstrates the use of a class-based approach for model evaluation and prediction.
 
-
+![WordcloudFakeNewsV3](https://github.com/Kokit0/PortfolioProject-NLP_Fake_News_Classification/assets/86896405/534b21f2-3db5-4c30-91aa-2590d6536343)
 
 ### Project Flow:
 1. Problem Statement
