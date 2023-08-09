@@ -1,3 +1,6 @@
+# if needing to install requirements, just copy this nbext line on terminal and run it:
+# pip install -r requirements.txt
+
 nltk
 pandas
 scikit-learn
