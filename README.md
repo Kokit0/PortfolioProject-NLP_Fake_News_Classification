@@ -92,7 +92,7 @@ During this project, I encountered some intriguing avenues that I didn't have th
 I believe that these aren't missed opportunities but rather different paths. I'm proud of the direction I took and the fair share I explored, reflecting the growth and evolution of my understanding.
 
 ### Stay Engaged!
-I invite you to keep an eye out for updates to this project. Feel free to follow me on Medium or on my soon-to-be-updated GetOnBoard for notifications about new releases and announcements. Your feedback and suggestions are invaluable, and I'm excited to continue this journey together.
+I invite you to keep an eye out for updates to this project. Feel free to follow me on [Medium](https://medium.com/@jorge.amaya.s) or on my soon-to-be-updated [GetOnBoard](https://www.getonbrd.com/p/jorge-amaya-s) for notifications about new releases and announcements. Your feedback and suggestions are invaluable, and I'm excited to continue this journey together.
 
 Thank you for joining me on this adventure. Until next time!
 
